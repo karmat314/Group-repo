@@ -33,6 +33,20 @@ h1 {
 }
 
 
+.card:hover {
+    background-color: rgb(39, 152, 152);
+}
+
+.card {
+    animation: move 0.5s infinite  alternate;
+}
+
+
+@keyframes move {
+    0% { transform: translateY(0); }
+    100% { transform: translateY(-100px); }
+}
+
 
 
 /* Add your css here */
