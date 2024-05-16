@@ -5,6 +5,7 @@
 body {
     display: flex;
     flex-direction: column-reverse;
+    background-color: black;
 }
 h1 {
     text-align: center;
