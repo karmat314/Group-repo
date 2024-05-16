@@ -24,18 +24,17 @@ h1 {
     border-radius: 10px;
     width: 300px;
     height: 50%;
-    border: black solid 2px;
-    box-shadow: black 5px 5px;
 }
 
 
 
-#card1, #card3 {
+#card1 {
     text-align: center;
 }
 
-#card1 h4 {
-    padding-top: 100px;
+
+.card div {
+    margin: auto;
 }
 
 
